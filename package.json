@@ -1,0 +1,17 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "main": "TaskTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^12.2.0"
+  }
+}
